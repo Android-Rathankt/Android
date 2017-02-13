@@ -1,0 +1,27 @@
+and Asset Management. Using the following modules of ServiceDesk, technicians and
+system administrators can resolve issues of complex nature in no time and thus reduce
+the end-user frustration arising due to time consuming issue resolving process. They can
+also keep track of the needs of the organization with the help of asset management and
+proactively allocate resources to the right user/departments, thus increasing the
+productivity of the organization.
+• Requests
+• Problem
+• Change
+• Solutions
+• Assets
+• Purchase
+• Contract
+• Configuration Management Database
+The request module functions as the Help Desk where requests are fetched and
+necessary solutions provided by assigning technicians to resolve issues reported.
+When you log in to ManageEngine ServiceDesk Plus , the application displays the
+ServiceDesk Plus home page that contains information on pending requests, overdue
+requests, requests assigned to the user who has logged in, approved/unapproved
+changes by the logged in technician, open and unassigned problems assigned to the
+logged in technician, individual user's task list, and depending on the user login, the
+other dash board views such as Contract and Purchase Order summary may also be
+displayed.
+Requests
+Clicking on the Requests tab on the header pane takes you to the request module. This
+serves as the IT help desk module where the IT requests from individual users are
+fetched, tracked, technicians are assigned, and a solution is provided.
